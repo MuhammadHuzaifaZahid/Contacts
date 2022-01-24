@@ -3,8 +3,8 @@ Contacts is an android based contact management app with a unique map navigation
 # Technologies Used
 * Android
 * Java
-* MapBox API
-* SQLite
+* MapBox API (Used for searching contact location to save & generating direction map from saved location) 
+* SQLite (Local database for contact details create/save, remove/delete, update & read/view operations)
 # Features
 * View Contacts List
 * Save Contact Details
